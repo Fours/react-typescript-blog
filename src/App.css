@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.site {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.site main {
+    width: 90%;
+    margin: 0 auto;
+    flex-grow: 1;
+}
