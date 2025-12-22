@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: sans-serif;
 }
 
 .site {
@@ -12,4 +13,8 @@ body {
     width: 90%;
     margin: 0 auto;
     flex-grow: 1;
+}
+
+header a {
+    margin: 0 0.5rem;
 }
